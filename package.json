@@ -41,7 +41,7 @@
     "jquery": "^3.5.1"
   },
   "devDependencies": {
-    "@the-utd/themeplify": "^1.0.1",
+    "@crocodedev/themeplify": "crocodedev/themeplify",
     "copy": "^0.3.2",
     "eclint": "^2.8.1",
     "eslint": "^7.18.0",

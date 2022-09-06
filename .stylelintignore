@@ -4,3 +4,5 @@ src/styles/libs/**/*.scss
 src/styles/vendor/**/*.scss
 src/styles/libs/**/*.css
 src/styles/vendor/**/*.css
+_mixins.scss
+_reboot.scss
